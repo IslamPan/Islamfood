@@ -25,7 +25,7 @@
   
   .navigation ul {
     display: flex;
-    gap: 1px;
+    gap: 3px;
   }
   
   .navigation ul li {
@@ -67,7 +67,7 @@
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
   }
   
-  .card .img-box img{
+  .fould .img-box img{
     width: 100%;
     height: 180px;
     object-fit: cover;
@@ -87,16 +87,16 @@
     text-shadow: 0 0 10px #0000009f;
   }
 
-  .img-container .location h2{
+  .img-box .location h2{
     font-size: 30px;
   }
 
-  .img-container .location img{
+  .img-box .location img{
     width: 25px;
     height: 25px;
   }
 
-  .img-container .location span{
+  .img-box .location span{
     font-size: 20px;
   }
   
